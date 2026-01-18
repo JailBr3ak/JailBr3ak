@@ -1,53 +1,83 @@
 # Nawaf Althurwi
 
-**Cybersecurity Student | Software Engineering Enthusiast**
+**Penetration Tester & Red Teamer**  
+**eCPPTv3 | eWPTX | CRTA | HTB Labs (DANTE, Offshore, Zephyr, RastaLabs)**
 
-📍 Jeddah, Saudi Arabia  
+💏 [nawafalthurwi@gmail.com](mailto:nawafalthurwi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nawaf-althurwi-66538b2ab/)  
 
 ---
 
 ## About Me
 
-I’m a passionate cybersecurity and software engineering student eager to learn and contribute to open source. I enjoy exploring digital forensics, building secure applications, and participating in capture‑the‑flag (CTF) competitions. Here you'll find my projects, labs, and experiments as I continue to sharpen my skills and share what I learn.
+I’m a cybersecurity professional in training with a strong foundation in **Active Directory attack and defense**, **web enumeration**, and core **penetration testing** practices. I enjoy building secure systems and diving deep into **SIEM/IDS technologies** like the **ELK Stack**, **Wazuh**, and **Snort**. My experience includes deploying centralized logging platforms, simulating advanced persistent threat (APT) attacks, and hardening enterprise networks through meticulous configuration and monitoring.
+
+With a background in both back‑end and front‑end development, I’m comfortable working across the stack and constantly look for opportunities to blend software engineering with security research. I love participating in Hack The Box labs and other CTF challenges to sharpen my skills.
 
 ---
 
 ## Skills
 
-- **Languages:** C, C++, Python, JavaScript  
-- **Cybersecurity:** Digital forensics, network security, penetration testing  
-- **Tools:** Git, Docker, Linux, SIEM  
+### Programming & Databases
+- C, C++, Python, PHP, JavaScript, SQL
+
+### Security & Red Team
+- Enumeration
+- Relay attacks
+- Password cracking
+- SQL attacks
+- Privilege escalation
+- Web application attacks
+- Exploitation of Active Directory flaws
+- Lateral movement & crossing trust boundaries
+- Pivoting
+- Manual exploitation
+- Information gathering & reconnaissance
+- Exploit development
+- Server-side attacks
+- Web application penetration testing methodology
+- API penetration testing
+- Filter evasion & WAF bypass
+- Red Teaming & adversary simulation
+- Penetration testing
+- MITRE ATT&CK
+- Web & network attacks
+- Enterprise tech
+- Windows security
+- Red team methodologies
+
+### Tools & Platforms
+- Active Directory security assessment & hardening, IDS/SIEM deployment & tuning (ELK, Wazuh, Snort)
+- BloodHound, pfSense, Git, Docker, Linux
 
 ---
 
-## Featured Projects
+## Experience
 
-### INFO‑project‑1  
-**Description:** Coursework project exploring information security concepts and techniques.  
-**Tech:** Python, Linux  
-**Repo:** [INFO‑project‑1‑](https://github.com/JailBr3ak/INFO-project-1-)
+### ELK Setup and Monitoring – Academic Project (Jul 2025 – Aug 2025)
+- Deployed a centralized logging and monitoring platform using the **ELK Stack**.  
+- Integrated multiple devices via Beats/Syslog and built **Logstash** pipelines for parsing and normalization.  
+- Created **Kibana** dashboards for health and trend analysis, configured alerting and access controls, and managed retention policies.  
+- Documented the deployment for repeatability and scalability.
 
-### QR‑SYSTEM  
-**Description:** QR code system for [placeholder details].  
-**Tech:** Python, OpenCV  
-**Repo:** Private (access on request)
-
----
-
-## Education
-
-- **Bachelor of Cybersecurity**, University of Jeddah — *Expected 20XX*
+### Enterprise Network Security – Academic Project (Mar 2025 – Apr 2025)
+- Simulated **APT attacks** in an Active Directory lab using **BloodHound** and the **MITRE ATT&CK** framework.  
+- Performed credential dumping, lateral movement, and privilege escalation before implementing detection with **Snort** and **SIEM tools** (ELK, Wazuh).  
+- Hardened Active Directory via **Group Policy** enforcement, misconfiguration remediation, and **pfSense** firewall rules.  
+- Documented attack paths, detection strategies, and mitigation techniques.
 
 ---
 
 ## Certifications
 
-- eJPT (Junior Penetration Tester) – *IN PROGRESS*  
-- [Add any other certifications here]
+- **CRTA** – Certified Red Team Analyst (Hack The Box – RastaLabs)  
+- **eCPPT** – Certified Professional Penetration Tester  
+- **eWPT** – Web Application Penetration Tester  
+- **eWPTX** – Web Application Penetration Tester eXtreme  
+- **HTB Labs:** DANTE, Offshore, Zephyr, RastaLabs  
 
 ---
 
 ## Connect
 
-Feel free to reach out or explore my work. I’m always open to collaboration and learning!
+I’m always open to collaboration, learning opportunities, and cybersecurity challenges. Feel free to connect or drop me a message!
